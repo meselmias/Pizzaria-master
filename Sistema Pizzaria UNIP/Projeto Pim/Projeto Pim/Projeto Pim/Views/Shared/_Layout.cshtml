@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title - Pizzaria</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+       
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/Site.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p class="site-title">@Html.ActionLink("Pizzaria Tabajara", "Index", "Home")</p>
+            </div>
+            <div class="float-right">
+                <section id="login">
+                    @Html.Partial("_LoginPartial")
+                </section>
+                <nav>
+                    <ul id="menu">
+                        <li class="bottom"><a class="ESGreen" href="@Url.Action("Lista", "Cliente")"><i class="icon-download"></i>Clientes</a></li>
+                        <li class="dropdown"><a class="ESGreen" href="@Url.Action("Lista", "Pedido")"><i class="icon-download"></i>Pedidos</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="span12">
+
+
+                <img src="~/Images/pizzaria.jpg" />
+            </div>
+        </div>
+    </header>
+    <div id="body">
+        @RenderSection("featured", required: false)
+
+    </div>
+    <footer>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p>&copy; @DateTime.Now.Year - Pim Project Corporation</p>
+            </div>
+        </div>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

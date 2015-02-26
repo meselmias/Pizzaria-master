@@ -1,0 +1,45 @@
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\Projeto Pim.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\Projeto Pim.pdb
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\Antlr3.Runtime.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\DotNetOpenAuth.Core.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\EntityFramework.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\Newtonsoft.Json.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\System.Web.Helpers.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\System.Web.Mvc.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\System.Web.Optimization.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\System.Web.Razor.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\System.Web.WebPages.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\WebGrease.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\WebMatrix.Data.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\WebMatrix.WebData.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\EntityFramework.xml
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\Newtonsoft.Json.xml
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\System.Web.Helpers.xml
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\System.Web.Mvc.xml
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\System.Web.Razor.xml
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\System.Web.WebPages.xml
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\WebMatrix.Data.xml
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\WebMatrix.WebData.xml
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\DotNetOpenAuth.Core.xml
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\obj\Debug\Projeto Pim.csprojFakesResolveAssemblyReference.cache
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\obj\Debug\Projeto Pim.csprojResolveAssemblyReference.cache
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\obj\Debug\Projeto Pim.dll
+C:\Users\Meselmias\Documents\GitHub\Pizzaria-master\Sistema Pizzaria UNIP\Projeto Pim\Projeto Pim\Projeto Pim\obj\Debug\Projeto Pim.pdb

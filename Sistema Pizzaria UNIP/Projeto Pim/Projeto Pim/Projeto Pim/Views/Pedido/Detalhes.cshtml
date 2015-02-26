@@ -1,0 +1,58 @@
+﻿@model Projeto_Pim.Models.Pedido
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+    <script src="~/Scripts/bootstrap.min.js"></script>
+        <script src="~/Scripts/jquery.validate.min.js"></script>
+        <script src="~/Scripts/jquery.validate.js"></script>
+        <script src="~/Scripts/jquery.validate-vsdoc.js"></script>
+        <script src="~/Scripts/jquery-1.7.1.js"></script>
+        <script src="~/Scripts/jquery-1.7.1.intellisense.js"></script>
+        <script src="~/Scripts/_references.js"></script>
+        <script src="~/Scripts/bootstrap.min.js"></script>
+        <script src="~/Scripts/modernizr-2.5.3.js"></script>
+        <script src="~/Scripts/jquery-ui-1.8.20.js"></script>
+        <script src="~/Scripts/jquery-1.11.1.min.js"></script>
+        <link href="~/Content/Site.css" rel="stylesheet" />
+        <link href="~/Content/bootstrap.css" rel="stylesheet" />
+        <link href="~/Content/bootstrap-theme.min.css" rel="stylesheet" />
+        <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div class="container">
+        <div class="row">
+      
+            <div class="span4 input-prepend">
+                <span class="add-on">@Html.DisplayNameFor(model => model.ClienteId):</span>
+                @Html.TextBoxFor(model => model.ClienteId, new { @class = "input-medium uneditable-input", @readonly = "readonly" })
+            </div>
+            <div class="span4 input-prepend">
+                <span class="add-on">@Html.DisplayNameFor(model => model.Produto):</span>
+                @Html.TextBoxFor(model => model.Produto, new { @class = "input-medium uneditable-input", @readonly = "readonly" })
+            </div>
+            <div class="span4 input-prepend">
+                <span class="add-on">@Html.DisplayNameFor(model => model.Observacao):</span>
+                @Html.TextBoxFor(model => model.Observacao, new { @class = "input-medium uneditable-input", @readonly = "readonly" })
+            </div>
+        </div>
+        <div class="row">
+            <div class="span4 input-prepend">
+                <span class="add-on">@Html.DisplayNameFor(model => model.Endereco):</span>
+                @Html.TextBoxFor(model => model.Endereco, new { @class = "input-medium uneditable-input", @readonly = "readonly" })
+            </div>
+        </div>
+        
+        <div class="row">
+            <a href="@Url.Action("Lista", "Pedido")" class="btn btn-small btn-primary"><i class="icon-circle-arrow-left icon-white"></i>Retornar a lista</a>
+        </div>
+    </div>
+</body>
+</html>
